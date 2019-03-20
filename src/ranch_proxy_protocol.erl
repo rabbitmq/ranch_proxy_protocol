@@ -1,5 +1,5 @@
 %%% @copyright (C) 2015, Heroku
-%%% @doc Ranch protocol handling for the HA Proxy PROXY protocol [http://www.haproxy.org/download/1.5/doc/proxy-protocol.txt]
+%%% @doc Ranch protocol handling for the HA Proxy PROXY protocol [https://www.haproxy.org/download/1.5/doc/proxy-protocol.txt]
 %%% @end
 -module(ranch_proxy_protocol).
 

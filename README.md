@@ -3,7 +3,7 @@
 ![](https://api.travis-ci.org/heroku/ranch_proxy_protocol.svg?branch=master)
 
 This module wraps the `ranch_tcp` module to parse the
-[proxy protocol](http://haproxy.1wt.eu/download/1.5/doc/proxy-protocol.txt)
+[proxy protocol](https://www.haproxy.org/download/1.5/doc/proxy-protocol.txt)
 (version 1) before handing the socket on to the `ranch` handler.
 
 It has the same API as the `ranch_tcp` module but with two new
